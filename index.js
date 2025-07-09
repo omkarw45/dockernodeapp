@@ -7,7 +7,7 @@ const app = express();
 
 app.get('/', (req, res) => {
 
-  res.send('Welcome to rastapeth');
+  res.send('Welcome to pondi');
 
 });
 
